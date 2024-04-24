@@ -8,12 +8,12 @@ Blitz TCG® is not just another card game. It provides players with full access 
 
 # Getting Started
 We highly recommend you join our social channels if looking to get more engaged:
-- [Discord](https://discord.gg/KkuDscjVt2): Ask questions and collaborate with others, provide feedback on the game, and more.
-- [Twitter](https://twitter.com/Blitz_TCG): Get the latest news updates and ride along with our banter.
-- [YouTube](http://youtube.com/c/BlitzTCG): Watch playtest videos, receive broader updates, and listen into community conversations.
-- [Reddit](https://www.reddit.com/r/Blitz_TCG/): All posts relevant to Blitz TCG will be crossposted here.
-- [LinkedIn](https://www.linkedin.com/company/81789843): We are the real deal - check out our LLC and find out the minds behind the game.
-- [Twitch](https://www.twitch.tv/lowkeyn3rd): Once we get further along with development, we'll host more Twitch playalongs here.
+- [Discord](https://discord.gg/KkuDscjVt2) : Ask questions and collaborate with others, provide feedback on the game, and more.
+- [Twitter](https://twitter.com/Blitz_TCG) : Get the latest news updates and ride along with our banter.
+- [YouTube](http://youtube.com/c/BlitzTCG) : Watch playtest videos, receive broader updates, and listen into community conversations.
+- [Reddit](https://www.reddit.com/r/Blitz_TCG/) : All posts relevant to Blitz TCG will be crossposted here.
+- [LinkedIn](https://www.linkedin.com/company/81789843) : We are the real deal - check out our LLC and find out the minds behind the game.
+- [Twitch](https://www.twitch.tv/lowkeyn3rd) : Once we get further along with development, we'll host more Twitch playalongs here.
 
 # License
 Anyone can use the resources of Blitz TCG® in their own project or variant of the card game under a single condition:
